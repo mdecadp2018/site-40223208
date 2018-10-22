@@ -24,7 +24,19 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181022105544.1" a="E"><vh>Week1</vh>
+<v t="leo.20181022105544.2"><vh>w1</vh></v>
+</v>
+<v t="leo.20181022111221.1"><vh>Week2</vh>
+<v t="leo.20181022111221.2"><vh>w2</vh></v>
+</v>
+<v t="leo.20181022111240.1"><vh>Week3</vh>
+<v t="leo.20181022111240.2"><vh>w3</vh></v>
+</v>
+<v t="leo.20181022111533.1" a="E"><vh>Week4</vh>
+<v t="leo.20181022111533.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -124,7 +136,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 40223208分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -325,6 +337,109 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181022105544.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181022105544.2">##第一週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+1.登入 Github 帳號，並建立自己的倉儲，與倉儲鏈結
+
+2.開啟靜態(8444)、動態網頁(8443)
+
+3.學習git的常用指令
+
+影片連結: [youtube1](https://youtu.be/WFub_M7tSdw)
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181022111221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181022111221.2">##第二週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+1.學習分組網站的基本編寫
+      (設置超連結、圖片、邊框顏色)
+      
+2.分組網站編寫架構與程式碼
+
+3.generate_pages更新靜態網頁
+
+影片連結: [youtube1](https://youtu.be/HODfnxL0Aa8)
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181022111240.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181022111240.2">##第三週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+中秋節放假~
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181022111533.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181022111533.2">##第四週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+編寫CMSimfly、Reveal、Pelican Blog
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
 </t>
 </tnodes>
 </leo_file>
