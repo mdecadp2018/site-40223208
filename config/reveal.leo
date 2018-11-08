@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181022105544.1" a="E"><vh>Week1</vh>
+<v t="leo.20181022105544.1"><vh>Week1</vh>
 <v t="leo.20181022105544.2"><vh>w1</vh></v>
 </v>
 <v t="leo.20181022111221.1"><vh>Week2</vh>
@@ -33,11 +33,20 @@
 <v t="leo.20181022111240.1"><vh>Week3</vh>
 <v t="leo.20181022111240.2"><vh>w3</vh></v>
 </v>
-<v t="leo.20181022111533.1" a="E"><vh>Week4</vh>
+<v t="leo.20181022111533.1"><vh>Week4</vh>
 <v t="leo.20181022111533.2"><vh>w4</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20181108210659.1"><vh>Week5</vh>
+<v t="leo.20181108210659.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20181108210848.1"><vh>Week6</vh>
+<v t="leo.20181108210848.2"><vh>w6</vh></v>
+</v>
+<v t="leo.20181108211052.1"><vh>Week7</vh>
+<v t="leo.20181108211052.2"><vh>w7</vh></v>
+</v>
+<v t="leo.20181108211047.1"><vh>Week8</vh>
+<v t="leo.20181108211047.2"><vh>w8</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -49,6 +58,9 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -434,6 +446,133 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
 編寫CMSimfly、Reveal、Pelican Blog
+透過學校信箱在Onshape上建立帳號並登入，以往只有使用CAD、Inventor進行繪圖使用，在做專題或者共同繪製零組件的時候，往往會因為版本或者檔案傳來傳去，尺寸跑來跑去之類的問題，當老師講述到Onshape可以分享給別人，才深刻了解電腦輔助的重要性，善用工具可以解決許多不必要的麻煩與省下更多時間。
+[影片一](https://www.youtube.com/embed/QiKnzRSg3dA)
+[影片二](https://www.youtube.com/embed/qtyMxw23C80)
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181108210659.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108210659.2">##第五週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+
+使用Onshape繪製了一個小零件，該軟體的使用舒適度介於Inventor與SolidWorks之間，功能上的基本快捷鍵是有的，可以讓使用者操作更加方便。
+
+[影片一](https://www.youtube.com/embed/QrK6Vj2oLQ0)
+[影片二](https://www.youtube.com/embed/RfKEqFB4cog)
+
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181108210848.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108210848.2">##第六週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+
+
+介紹方矩陣、環形陣列與陣列特徵與陣列零件的差異
+[影片二]使用Onshape教學PDF上的圖片當作題目作範例教學，影片主要交陣列的應用，所以把圖形做了簡化，重點在於工具的使用解說。
+
+
+
+[個人倉儲]: https://github.com/40223208/40223208.github.io
+[影片一](https://www.youtube.com/embed/zEs1JKFxLY8)
+[影片二](https://www.youtube.com/embed/NWVH8pfthDQ)
+
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181108211047.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211047.2">##第六週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+
+
+該影片把之前畫好的零件圖拿來繪製工作圖，了解工作圖上如何做標註、視角的更改、繪製中心線、試圖間的對其約束。
+
+
+
+[個人倉儲]: https://github.com/40223208/40223208.github.io
+[影片](https://www.youtube.com/embed/lRBTZ6FyPt4)
+
+
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+
+
+</t>
+<t tx="leo.20181108211052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108211052.2">##第七週進度&lt;small&gt;by 40223208
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+
+影片 將PDF上的零件簡化，PDF上主要都是拿插銷去套板件上的孔，本影片重在零件組合的方法，這個會了，其他的銷或者螺栓、軸就只是依樣畫葫蘆而已。
+
+[影片](https://www.youtube.com/embed/VPZ7JdRuGLA)
+
+
+[個人倉儲]: https://github.com/40223208/40223208.github.io
+
+
+
 
 [2018 Fall 分組網誌](./../blog/index.html)
 

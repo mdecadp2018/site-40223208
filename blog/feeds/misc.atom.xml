@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecourse.github.io/2018fall/blog/" rel="alternate"></link><link href="https://mdecourse.github.io/2018fall/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecourse.github.io/2018fall/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecourse.github.io,2018-09-10:/2018fall/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-09-12T10:02:00+08:00</updated><entry><title>2018 Fall Week2分組網誌</title><link href="./2018-Fall-Week2-Blog.html" rel="alternate"></link><published>2018-09-12T10:02:00+08:00</published><updated>2018-09-12T10:02:00+08:00</updated><author><name>40223208</name></author><id>tag:None,2018-09-12:./2018-Fall-Week2-Blog.html</id><summary type="html">&lt;p&gt;第一週進度
+影片連結: &lt;a href="https://youtu.be/HODfnxL0Aa8"&gt;youtube1&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第一週進度
+影片連結: &lt;a href="https://youtu.be/HODfnxL0Aa8"&gt;youtube1&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;第一週進度
+影片連結: &lt;a href="https://github.com/40223208/40223208.github.io"&gt;youtube1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.學習分組網站的基本編寫
+      (設置超連結、圖片、邊框顏色)&lt;/p&gt;
+&lt;p&gt;2.分組網站編寫架構與程式碼&lt;/p&gt;
+&lt;p&gt;3.generate_pages更新靜態網頁&lt;/p&gt;</content><category term="Week2"></category></entry><entry><title>2018 Fall Week1分組網誌</title><link href="./2018-Fall-Week1-Blog.html" rel="alternate"></link><published>2018-09-11T12:00:00+08:00</published><updated>2018-09-11T12:00:00+08:00</updated><author><name>40223208</name></author><id>tag:None,2018-09-11:./2018-Fall-Week1-Blog.html</id><summary type="html">&lt;p&gt;第一週進度
+影片連結: &lt;a href="https://youtu.be/WFub_M7tSdw"&gt;youtube1&lt;/a&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第一週進度
+影片連結: &lt;a href="https://youtu.be/WFub_M7tSdw"&gt;youtube1&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;第一週進度
+影片連結: &lt;a href="https://github.com/40223208/40223208.github.io"&gt;youtube1&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.登入 Github 帳號，並建立自己的倉儲，與倉儲鏈結&lt;/p&gt;
+&lt;p&gt;2.開啟靜態(8444)、動態網頁(8443)&lt;/p&gt;
+&lt;p&gt;3.學習git的常用指令&lt;/p&gt;</content><category term="Week1"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
